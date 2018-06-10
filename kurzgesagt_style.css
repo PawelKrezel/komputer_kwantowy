@@ -1,0 +1,44 @@
+body
+{
+	text-align: center;
+	background-color: #082A51;
+}
+h1,h2
+{
+	color: white;
+}
+img
+{
+	vertical-align: middle;
+	width:640px;
+	height:360px;
+	margin: 2px;
+}
+p
+{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: justify-all;
+	color:white;
+}
+a
+{
+	color: teal;
+}
+i
+{
+	color: #F94369;
+}
+*.pow
+{
+	color:teal;
+	text-decoration: none;
+}
+a.l
+{
+	font-weight: bold;
+	font-size: 32px;
+	text-align: center;
+	text-decoration: none;
+}
+
